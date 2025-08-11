@@ -44,4 +44,30 @@ body{
     box-shadow: 0 12px 25px rgba(0,0,0,0.15);
 }
 
+.icon {
+    background: linear-gradient(135deg, #7b2ff7, #f107a3);
+    color: white;
+    font-size: 28px;
+    padding: 12px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
 
+.card h2 {
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+
+.card ul {
+    list-style: none;
+    margin-bottom: 15px;
+}
+
+.card ul li {
+    font-size: 0.95rem;
+    color: #555;
+    margin-bottom: 5px;
+}
